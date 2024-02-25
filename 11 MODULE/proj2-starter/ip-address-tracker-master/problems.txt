@@ -1,0 +1,94 @@
+Microsoft Windows [Version 10.0.19045.4046]
+(c) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+C:\Users\User>chrome.exe --user-data-dir="C://chrome-dev-disabled-security" --disable-web-security --disable-site-isolation-trials
+"chrome.exe" не является внутренней или внешней
+командой, исполняемой программой или пакетным файлом.
+
+C:\Users\User>cd\
+
+C:\>C:\Program Files\Google\Chrome
+"C:\Program" не является внутренней или внешней
+командой, исполняемой программой или пакетным файлом.
+
+C:\>cd C:\Program Files\Google\Chrome
+
+C:\Program Files\Google\Chrome>dir
+ Том в устройстве C не имеет метки.
+ Серийный номер тома: B091-82F3
+
+ Содержимое папки C:\Program Files\Google\Chrome
+
+16.02.2024  12:16    <DIR>          .
+16.02.2024  12:16    <DIR>          ..
+16.02.2024  12:16    <DIR>          Application
+               0 файлов              0 байт
+               3 папок  64 357 912 576 байт свободно
+
+C:\Program Files\Google\Chrome>cd application
+
+C:\Program Files\Google\Chrome\Application>dir
+ Том в устройстве C не имеет метки.
+ Серийный номер тома: B091-82F3
+
+ Содержимое папки C:\Program Files\Google\Chrome\Application
+
+16.02.2024  12:16    <DIR>          .
+16.02.2024  12:16    <DIR>          ..
+16.02.2024  12:16    <DIR>          121.0.6167.185
+13.02.2024  10:28         2 754 848 chrome.exe
+16.02.2024  12:16               413 chrome.VisualElementsManifest.xml
+13.02.2024  10:28         1 168 672 chrome_proxy.exe
+30.08.2023  18:54           527 081 initial_preferences
+17.02.2024  23:53    <DIR>          SetupMetrics
+               4 файлов      4 451 014 байт
+               4 папок  64 357 904 384 байт свободно
+
+C:\Program Files\Google\Chrome\Application>chrome.exe --user-data-dir="C://chrome-dev-disabled-security" --disable-web-security --disable-site-isolation-trials
+
+C:\Program Files\Google\Chrome\Application>chrome.exe --user-data-dir="C://chrome-dev-disabled-security" --disable-web-security --disable-site-isolation-trials
+
+C:\Program Files\Google\Chrome\Application>C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --disable-web-security --disable-gpu --disable-features=IsolateOrigins,site-per-process --user-data-dir="C://ChromeDev"... просто добавьте --disable-features=IsolateOrigins,site-per-proces
+"C:\Program" не является внутренней или внешней
+командой, исполняемой программой или пакетным файлом.
+
+C:\Program Files\Google\Chrome\Application>cd\
+
+C:\>C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --disable-web-security --disable-gpu --disable-features=IsolateOrigins,site-per-process --user-data-dir="C://ChromeDev"... просто добавьте --disable-features=IsolateOrigins,site-per-proces
+"C:\Program" не является внутренней или внешней
+командой, исполняемой программой или пакетным файлом.
+
+C:\>C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --disable-web-security --disable-gpu --disable-features=IsolateOrigins,site-per-process --user-data-dir="C://ChromeDev"... просто добавьте --disable-features=IsolateOrigins,site-per-proces
+"C:\Program" не является внутренней или внешней
+командой, исполняемой программой или пакетным файлом.
+
+C:\>cd C:\Program Files\Google\Chrome
+
+C:\Program Files\Google\Chrome>cd application
+
+C:\Program Files\Google\Chrome\Application>chrome.exe" --disable-web-security --disable-gpu --disable-features=IsolateOrigins,site-per-process --user-data-dir="C://ChromeDev"... просто добавьте --disable-features=IsolateOrigins,site-per-process
+"chrome.exe" --disable-web-security --disable-gpu --disable-features=IsolateOrigins,site-per-process --user-data-dir="C:" не является внутренней или внешней
+командой, исполняемой программой или пакетным файлом.
+
+C:\Program Files\Google\Chrome\Application>dir
+ Том в устройстве C не имеет метки.
+ Серийный номер тома: B091-82F3
+
+ Содержимое папки C:\Program Files\Google\Chrome\Application
+
+16.02.2024  12:16    <DIR>          .
+16.02.2024  12:16    <DIR>          ..
+16.02.2024  12:16    <DIR>          121.0.6167.185
+13.02.2024  10:28         2 754 848 chrome.exe
+16.02.2024  12:16               413 chrome.VisualElementsManifest.xml
+13.02.2024  10:28         1 168 672 chrome_proxy.exe
+30.08.2023  18:54           527 081 initial_preferences
+18.02.2024  00:02    <DIR>          SetupMetrics
+               4 файлов      4 451 014 байт
+               4 папок  64 268 111 872 байт свободно
+
+C:\Program Files\Google\Chrome\Application>chrome.exe --user-data-dir="C:/Chrome dev session" --disable-web-security
+
+C:\Program Files\Google\Chrome\Application> chrome.exe --user-data-dir="C://Chrome dev session" --disable-web-security
+
+C:\Program Files\Google\Chrome\Application>
